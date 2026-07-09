@@ -8,7 +8,7 @@
       "name": "coding-agent-docs",
       "source": {
         "source": "git-subdir",
-        "url": "MacHu-GWU/shsk_coding_agent_docs-project",
+        "url": "https://github.com/MacHu-GWU/shsk_coding_agent_docs-project",
         "path": ".claude/skills/coding-agent-docs",
         "ref": "coding-agent-docs--v0.1.1"
       },
