@@ -1,18 +1,28 @@
 {
-  "name": "sanhe-claude-code-plugin-marketplace",
-  "owner": {
-    "name": "MacHu-GWU"
-  },
-  "plugins": [
-    {
-      "name": "coding-agent-docs",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/MacHu-GWU/shsk_coding_agent_docs-project",
-        "path": ".claude/skills/coding-agent-docs",
-        "ref": "coding-agent-docs--v0.1.1"
-      },
-      "description": "Grounded, always-current documentation lookup for Claude Code, Codex, and Antigravity, a cross-tool concept-mapping knowledge base, and skills to port a project's agent configuration between the three tools."
-    }
-  ]
+    "name": "sanhe-claude-code-plugin-marketplace",
+    "owner": {
+        "name": "MacHu-GWU"
+    },
+    "plugins": [
+        {
+            "name": "coding-agent-docs",
+            "source": {
+                "source": "git-subdir",
+                "url": "https://github.com/MacHu-GWU/shsk_coding_agent_docs-project",
+                "path": ".claude/skills/coding-agent-docs",
+                "ref": "coding-agent-docs--v0.1.1"
+            },
+            "description": "Distills official AI coding agent documentation into reusable Agent Skills for on-demand discovery and learning."
+        },
+        {
+            "name": "doc-writing-styles",
+            "source": {
+                "source": "git-subdir",
+                "url": "https://github.com/MacHu-GWU/shsk_doc_writing_styles-project",
+                "path": ".claude/skills/doc-writing-styles",
+                "ref": "doc-writing-styles--v0.1.2"
+            },
+            "description": "A Claude Code plugin providing personal documentation writing style conventions."
+        }
+    ]
 }
