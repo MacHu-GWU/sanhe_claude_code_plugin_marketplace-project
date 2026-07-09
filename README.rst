@@ -50,7 +50,7 @@ Welcome to ``sanhe_claude_code_plugin_marketplace`` Documentation
 .. image:: https://sanhe-claude-code-plugin-marketplace.readthedocs.io/en/latest/_static/sanhe_claude_code_plugin_marketplace-logo.png
     :target: https://sanhe-claude-code-plugin-marketplace.readthedocs.io/en/latest/
 
-Documentation for ``sanhe_claude_code_plugin_marketplace``.
+This is a personal plugin marketplace created by an early adopter and power user of Claude Code. It contains hard-won patterns and redistributable components forged through production use—real-world solutions for enterprise AI applications and optimized development workflows. Not theoretical examples, but practical implementations battle-tested in actual use.
 
 
 .. _install:
