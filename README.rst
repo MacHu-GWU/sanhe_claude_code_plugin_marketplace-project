@@ -58,7 +58,29 @@ This is a personal plugin marketplace created by an early adopter and power user
 Install
 ------------------------------------------------------------------------------
 
-``sanhe_claude_code_plugin_marketplace`` is released on PyPI, so all you need is to:
+Add this marketplace to your Claude Code ``.claude/settings.json`` (or ``~/.claude/settings.json`` for a global install), then enable whichever plugins you want:
+
+.. code-block:: json
+
+    {
+        "extraKnownMarketplaces": {
+            "sanhe-claude-code-plugin-marketplace": {
+                "source": {
+                    "source": "github",
+                    "repo": "MacHu-GWU/sanhe_claude_code_plugin_marketplace-project",
+                    "ref": "x.y.z"
+                }
+            }
+        },
+        "enabledPlugins": {
+            "coding-agent-docs@sanhe-claude-code-plugin-marketplace": true,
+            "doc-writing-styles@sanhe-claude-code-plugin-marketplace": true
+        }
+    }
+
+Set ``ref`` to the latest tag (``x.y.z``) from `the releases page <https://github.com/MacHu-GWU/sanhe_claude_code_plugin_marketplace-project/releases>`_ to pick up marketplace catalog updates, then run ``/plugin marketplace update`` inside Claude Code.
+
+``sanhe_claude_code_plugin_marketplace`` is also released on PyPI as a placeholder package, so if you need it as a Python dependency you can:
 
 .. code-block:: console
 
