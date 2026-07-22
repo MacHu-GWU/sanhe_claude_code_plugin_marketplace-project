@@ -15,6 +15,16 @@
             "description": "Distills official AI coding agent documentation into reusable Agent Skills for on-demand discovery and learning."
         },
         {
+            "name": "dot-claude",
+            "source": {
+                "source": "git-subdir",
+                "url": "https://github.com/MacHu-GWU/shsk_dot_claude-project",
+                "path": ".claude/skills/dot-claude",
+                "ref": "dot-claude--v0.1.1"
+            },
+            "description": "Meta-skills for authoring and maintaining Claude Code skills, subagents."
+        },
+        {
             "name": "doc-writing-styles",
             "source": {
                 "source": "git-subdir",

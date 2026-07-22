@@ -74,6 +74,7 @@ Add this marketplace to your Claude Code ``.claude/settings.json`` (or ``~/.clau
         },
         "enabledPlugins": {
             "coding-agent-docs@sanhe-claude-code-plugin-marketplace": true,
+            "dot-claude@sanhe-claude-code-plugin-marketplace": true,
             "doc-writing-styles@sanhe-claude-code-plugin-marketplace": true
         }
     }
