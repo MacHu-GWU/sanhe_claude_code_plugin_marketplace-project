@@ -15,11 +15,22 @@ x.y.z (Backlog)
 **Miscellaneous**
 
 
+0.4.1 (2026-07-22)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Features and Improvements**
+
+- Add the ``dot-claude`` plugin to the marketplace catalog
+
+
 0.3.1 (2026-07-22)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Features and Improvements**
 
 - Add the ``lesson-smith`` plugin to the marketplace catalog
+
+**Miscellaneous**
+
+- Document how to install this marketplace via ``extraKnownMarketplaces`` and ``enabledPlugins`` in Claude Code's ``settings.json``, and clarify that the PyPI package is a placeholder for those who need it as a Python dependency
 
 
 0.2.1 (2026-07-09)
