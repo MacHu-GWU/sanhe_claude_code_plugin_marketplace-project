@@ -1409,7 +1409,7 @@ wheels = [
 
 [[package]]
 name = "sanhe-claude-code-plugin-marketplace"
-version = "0.4.1"
+version = "0.4.2"
 source = { editable = "." }
 
 [package.optional-dependencies]

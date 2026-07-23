@@ -40,7 +40,7 @@
                 "source": "git-subdir",
                 "url": "https://github.com/MacHu-GWU/shsk_lesson_smith-project",
                 "path": ".claude/skills/lesson-smith",
-                "ref": "lesson-smith--v0.1.1"
+                "ref": "lesson-smith--v0.2.1"
             },
             "description": "Author teaching GitHub repositories with AI: the lesson-smith agent-skill family scaffolds, forges the learning tools for, and finalizes upskill and showcase course repos."
         }
