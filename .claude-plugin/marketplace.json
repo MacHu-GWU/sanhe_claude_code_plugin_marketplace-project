@@ -10,7 +10,7 @@
                 "source": "git-subdir",
                 "url": "https://github.com/MacHu-GWU/shsk_coding_agent_docs-project",
                 "path": ".claude/skills/coding-agent-docs",
-                "ref": "coding-agent-docs--v0.1.1"
+                "ref": "coding-agent-docs--v0.1.2"
             },
             "description": "Distills official AI coding agent documentation into reusable Agent Skills for on-demand discovery and learning."
         },
