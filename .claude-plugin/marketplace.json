@@ -30,7 +30,7 @@
                 "source": "git-subdir",
                 "url": "https://github.com/MacHu-GWU/shsk_doc_writing_styles-project",
                 "path": ".claude/skills/doc-writing-styles",
-                "ref": "doc-writing-styles--v0.1.2"
+                "ref": "doc-writing-styles--v0.1.3"
             },
             "description": "A Claude Code plugin providing personal documentation writing style conventions."
         },
