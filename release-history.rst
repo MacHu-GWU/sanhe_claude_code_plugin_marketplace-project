@@ -15,6 +15,14 @@ x.y.z (Backlog)
 **Miscellaneous**
 
 
+0.4.5 (2026-07-31)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Miscellaneous**
+
+- Bump the pinned ``coding-agent-docs`` plugin ref from ``v0.1.2`` to ``v0.1.4``
+- Bump the pinned ``lesson-smith`` plugin ref from ``v0.2.1`` to ``v0.2.2``
+
+
 0.4.4 (2026-07-29)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Miscellaneous**
