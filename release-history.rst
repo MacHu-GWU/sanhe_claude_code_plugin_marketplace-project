@@ -15,6 +15,22 @@ x.y.z (Backlog)
 **Miscellaneous**
 
 
+0.4.7 (2026-08-04)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Miscellaneous**
+
+- Bump the pinned ``doc-writing-styles`` plugin ref from ``v0.1.4`` to ``v0.1.5``
+
+
+0.4.6 (2026-08-02)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Miscellaneous**
+
+- Bump the pinned ``dot-claude`` plugin ref from ``v0.1.1`` to ``v0.2.1``
+- Bump the pinned ``doc-writing-styles`` plugin ref from ``v0.1.3`` to ``v0.1.4``
+- Bump the pinned ``lesson-smith`` plugin ref from ``v0.2.2`` to ``v0.2.3``
+
+
 0.4.5 (2026-07-31)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Miscellaneous**
