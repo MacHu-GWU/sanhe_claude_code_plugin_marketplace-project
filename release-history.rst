@@ -15,6 +15,19 @@ x.y.z (Backlog)
 **Miscellaneous**
 
 
+0.5.1 (2026-08-12)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Features and Improvements**
+
+- Add the ``mermaid-styles`` plugin to the marketplace catalog
+
+**Miscellaneous**
+
+- Bump the pinned ``dot-claude`` plugin ref from ``v0.2.1`` to ``v0.3.2``
+- Bump the pinned ``doc-writing-styles`` plugin ref from ``v0.1.5`` to ``v0.2.1``
+- Bump the pinned ``lesson-smith`` plugin ref from ``v0.2.3`` to ``v0.3.0``
+
+
 0.4.7 (2026-08-04)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Miscellaneous**
