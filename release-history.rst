@@ -15,6 +15,14 @@ x.y.z (Backlog)
 **Miscellaneous**
 
 
+0.5.4 (2026-09-27)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Miscellaneous**
+
+- Bump the pinned ``dot-claude`` plugin ref from ``v0.3.2`` to ``v0.4.1``
+- Bump the pinned ``lesson-smith`` plugin ref from ``v0.3.3`` to ``v0.3.5``
+
+
 0.5.3 (2026-08-19)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Miscellaneous**
