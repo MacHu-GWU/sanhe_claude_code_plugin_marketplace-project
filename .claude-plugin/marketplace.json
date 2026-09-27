@@ -20,7 +20,7 @@
                 "source": "git-subdir",
                 "url": "https://github.com/MacHu-GWU/shsk_dot_claude-project",
                 "path": ".claude/skills/dot-claude",
-                "ref": "dot-claude--v0.3.2"
+                "ref": "dot-claude--v0.4.1"
             },
             "description": "Meta-skills for authoring and maintaining Claude Code skills, subagents."
         },
@@ -50,7 +50,7 @@
                 "source": "git-subdir",
                 "url": "https://github.com/MacHu-GWU/shsk_lesson_smith-project",
                 "path": ".claude/skills/lesson-smith",
-                "ref": "lesson-smith--v0.3.3"
+                "ref": "lesson-smith--v0.3.5"
             },
             "description": "Author teaching GitHub repositories with AI: the lesson-smith agent-skill family scaffolds, forges the learning tools for, and finalizes upskill and showcase course repos."
         }
